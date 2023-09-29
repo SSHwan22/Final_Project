@@ -4,9 +4,9 @@
 
 
 
-<a href="http://13.125.24.24/thrifty/"> ![logo2 2](https://github.com/hongsuk2615/Final_Project/assets/117423274/10a38829-d9a5-4cfc-87d8-f2c9bf5adbd8) </a>
+<a href="https://www.thrifty-community.site/thrifty/"> ![logo2 2](https://github.com/hongsuk2615/Final_Project/assets/117423274/10a38829-d9a5-4cfc-87d8-f2c9bf5adbd8) </a>
 
-<a href="http://13.125.24.24/thrifty/">알뜰살뜰사이트(클릭시 사이트로 이동)</a>
+<a href="https://www.thrifty-community.site/thrifty/">알뜰살뜰사이트(클릭시 사이트로 이동)</a>
 <p>📌 관리자 계정<br>
 id: admin01<br>
 pw: 1q2w3e4r!</p>
